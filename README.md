@@ -191,4 +191,9 @@ bash script.bash Vasya Pupkin
 С помощью ping и айпи адресса проверяем подключения в обе стороны.
 
 ### Лабораторная 5
-### Задача
+
+### Решение
+![Снимок экрана 2024-12-10 в 18 53 06](https://github.com/user-attachments/assets/1d70357e-3f41-4470-ad4c-9210ea24ef67)
+![Снимок экрана 2024-12-10 в 18 54 18](https://github.com/user-attachments/assets/c93cd785-a736-4e82-ab88-65fe66c3f6ed)
+![Снимок экрана 2024-12-10 в 18 54 45](https://github.com/user-attachments/assets/637f10ed-0f55-4854-8a24-3a47be82170c)
+![Снимок экрана 2024-12-10 в 18 55 09](https://github.com/user-attachments/assets/59fb7281-1eeb-4b42-a817-a2b16c9cac69)
